@@ -1,6 +1,9 @@
 # Plain Text Driven Development
 Desenvolvimento Orientado a Texto Puro
 
+## Visão
+Desenvolver software utilizando um modelo super enxuto de especificações técnicas e funcionais.
+
 ## AGENTS.md
 ```
 # AGENTS
